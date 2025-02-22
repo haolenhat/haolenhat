@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hao Le Nhat</h1>
-<h3 align="center">A passionate developer from VietNam</h3>
+<img src="https://raw.githubusercontent.com/haolenhat/haolenhat/main/img/1387924.png" style="width: 100%; height: auto;" />
+
 
 - Frontend development project using Angular [Frontend-Angular-PhoneStore](https://github.com/haolenhat/Frontend-Angular-PhoneStore)
 

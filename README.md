@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/haolenhat/haolenhat/main/img/1387924.png" style="width: 100%; height: auto;" />
 
 
-- Frontend development project using Angular [Frontend-Angular-PhoneStore](https://github.com/haolenhat/Frontend-Angular-PhoneStore)
+<!-- - Frontend development project using Angular [Frontend-Angular-PhoneStore](https://github.com/haolenhat/Frontend-Angular-PhoneStore)
 
 - Backend web selling phones using Spring Boot [Backend-PhoneStore](https://github.com/haolenhat/Backend-PhoneStore)
 
-- Racing game is written in Unity [RacingGame](https://github.com/haolenhat/RacingGame)
+- Racing game is written in Unity [RacingGame](https://github.com/haolenhat/RacingGame) -->
 
 - 👨‍💻 All of my projects are available at [https://haolenhat.github.io/](https://haolenhat.github.io/)
 
